@@ -2,4 +2,4 @@
 ### By:Mike-munene
 #### language used: html
 ### LICENSE
-[MIT] (LICENSE)
+[MIT]-(LICENSE)
